@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Regin Ian
+
 VERBOSE=0
 REMOTE_FLAGS=""
 
