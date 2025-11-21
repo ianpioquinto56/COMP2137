@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Ignore TERM, INT, HUP
+# Regin Ian 
 trap "" TERM INT HUP
 
 VERBOSE=0
